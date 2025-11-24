@@ -18,10 +18,6 @@ Input validation
 
 Safe division (prevents division by zero)
 
-Clean menu-based interface
-
-This task demonstrates basic Python function design and user interaction.
-
 🏧 2. ATM Simulation System
 
 A full console simulation of an ATM machine supporting:
@@ -38,25 +34,13 @@ Withdrawals
 
 Persistent storage using a .txt file
 
-Object-oriented principles used:
-
-Classes (User, ATM)
-
-Encapsulation
-
-Separation of concerns
-
 File handling for saving user data
-
-This task demonstrates OOP and data persistence techniques.
 
 🎓 3. Student Management System
 
 A console program to manage student information with features:
 
 Add new students
-
-Auto-generated roll numbers (starting from 1, increment automatically)
 
 View all students
 
